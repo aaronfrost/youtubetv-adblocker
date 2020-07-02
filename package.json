@@ -1,0 +1,14 @@
+{
+  "name": "ytadblock",
+  "version": "1.0.0",
+  "description": "Wanna watch Youtube TV without Ads? Welcome to YTV Ad Blocker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Frosty <aaronfrost@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^2.0.5"
+  }
+}

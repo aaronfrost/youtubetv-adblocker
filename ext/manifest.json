@@ -1,0 +1,21 @@
+{
+  "name": "YTV Ad Blocker",
+  "version": "1.0",
+  "description": "Wanna watch Youtube TV without ads? Welcome to YTV Ad Blocker",
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "https://*.youtube.com/*"
+  ],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": true
+  },
+  "icons": {
+    "16": "images/ytvab-16.png",
+    "32": "images/ytvab-32.png",
+    "48": "images/ytvab-48.png",
+    "128": "images/ytvab-128.png"
+  },
+  "manifest_version": 2
+}
